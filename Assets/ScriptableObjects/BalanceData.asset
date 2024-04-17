@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2e0d26fb23e7d6488810f6dd7b8b3a4, type: 3}
+  m_Name: BalanceData
+  m_EditorClassIdentifier: 
+  _target: 10000
+  _startPlayerBalance: 500
+  _startPlayerResources: 0
+  _currentPrice: 100
+  _minPrice: 100
+  _maxPrice: 1000
+  _timeChangePrice: 0.5
+  _stepChangePrice: 100
